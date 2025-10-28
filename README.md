@@ -52,31 +52,36 @@
 </picture>
 
 ###
-name: Generate Pac-Man Contribution Graph
+name: Generate pacman animation
+
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+
   workflow_dispatch:
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: Update contribution graph
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: kngofhumans
-          outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
-      - name: Push new files
-        run: |
-          mkdir -p output
-          mv dist/* output/
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add .
-          git commit -m "Generate Pac-Man contribution graph" || echo "No changes"
-          git push
+  push:
+    branches:
+    - main
 
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+
+      - name: push pacman-contribution-graph.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
