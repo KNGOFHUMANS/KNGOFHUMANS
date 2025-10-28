@@ -52,3 +52,31 @@
 </picture>
 
 ###
+name: Generate Pac-Man Contribution Graph
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update contribution graph
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: kngofhumans
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+      - name: Push new files
+        run: |
+          mkdir -p output
+          mv dist/* output/
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add .
+          git commit -m "Generate Pac-Man contribution graph" || echo "No changes"
+          git push
+
