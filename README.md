@@ -50,8 +50,9 @@ I’m currently learning and building in **Java**, **Python**, and **Full-Stack 
 ---
 
 
+### 🧩 GradeRise — GPA Management App  
+**Download:** [GradeRise.exe](https://github.com/KNGOFHUMANS/GPA-TRACKER/releases/download/final_version/GradeRise.exe)  
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/KNGOFHUMANS/GPA-TRACKER/final_version/total?color=brightgreen&label=GradeRise%20Downloads)
-
 
 ---
 
