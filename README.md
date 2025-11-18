@@ -47,7 +47,7 @@ I’m currently learning and building in **Java**, **Python**, and **Full-Stack 
 
 
 ### 🧩 GradeRise — GPA Management App  
-**Download:** ![GitHub all releases]([https://img.shields.io/github/downloads/KNGOFHUMANS/GPA-TRACKER/total?color=brightgreen&label=Downloads](https://github.com/KNGOFHUMANS/GPA-TRACKER/releases/download/New_Update/GradeRise.exe))
+**Download:** ![GradeRise]([[https://img.shields.io/github/downloads/KNGOFHUMANS/GPA-TRACKER/total?color=brightgreen&label=Downloads](https://github.com/KNGOFHUMANS/GPA-TRACKER/releases/download/New_Update/GradeRise.exe)](https://release-assets.githubusercontent.com/github-production-release-asset/1067540605/9bcc82c7-89a9-4c28-a0a8-0b8f302ccec7?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-11-18T18%3A47%3A29Z&rscd=attachment%3B+filename%3DGradeRise.exe&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-11-18T17%3A47%3A06Z&ske=2025-11-18T18%3A47%3A29Z&sks=b&skv=2018-11-09&sig=snU84vteQI%2Fzeg8gLs72lOeAuXArZSDtN11xATHisVw%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc2MzQ5MTQ0MywibmJmIjoxNzYzNDg5NjQzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.nJ9nnSoJQF-9ucOt0zoF_zQqTaw27j63arHZSeZOStI&response-content-disposition=attachment%3B%20filename%3DGradeRise.exe&response-content-type=application%2Foctet-stream))
 
 
 ---
