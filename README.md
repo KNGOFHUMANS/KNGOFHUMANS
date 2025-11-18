@@ -42,16 +42,12 @@ I’m currently learning and building in **Java**, **Python**, and **Full-Stack 
 
 ---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kngofhumans&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=kngofhumans&theme=dracula&row=1&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
-</div>
 
 ---
 
 
 ### 🧩 GradeRise — GPA Management App  
-**Download:** ![GitHub all releases](https://img.shields.io/github/downloads/KNGOFHUMANS/GPA-TRACKER/total?color=brightgreen&label=Downloads)
+**Download:** ![GitHub all releases]([https://img.shields.io/github/downloads/KNGOFHUMANS/GPA-TRACKER/total?color=brightgreen&label=Downloads](https://github.com/KNGOFHUMANS/GPA-TRACKER/releases/download/New_Update/GradeRise.exe))
 
 
 ---
