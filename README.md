@@ -17,8 +17,8 @@ I’m currently learning and building in **Java**, **Python**, and **Full-Stack 
 - 🎓 Studying **Software Engineering (Application Track)**  
 - 🧠 Creator of **GradeRise**, a GPA tracker app with Google OAuth + JSON data persistence  
 - ⚙️ Exploring **AI/ML**, **Java desktop apps**, and **React web development**  
-- 🎮 Fun fact: I’m a great cook — I trained in **culinary classes in Europe**  
-- 🎯 Goal: Land a **Software Engineer Internship at Microsoft** and keep leveling up  
+- 🍳 Fun fact: I’m a great cook — I trained in **culinary classes in Europe**  
+- 🎯 Goal: Land a **Software Engineer Internship at Microsoft**  
 
 ---
 
@@ -28,31 +28,36 @@ I’m currently learning and building in **Java**, **Python**, and **Full-Stack 
 
 ---
 
+### 🧩 GradeRise — GPA Management App  
+
+> 🎓 **Track semesters, calculate weighted GPA, manage extra credit, and authenticate with Google — on desktop.**
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/maliktheatar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://www.youtube.com/@malikjones1613" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  </a>
-  <a href="mailto:malik.g.jones0415@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
+
+### 💾 **Download GradeRise**
+<a href="https://github.com/KNGOFHUMANS/GPA-TRACKER/releases/download/New_Update/GradeRise.exe" target="_blank">
+  <img src="https://img.shields.io/badge/Download-GradeRise.exe-38ef7d?style=for-the-badge&logo=windows&logoColor=white" />
+</a>
+
+<br><br>
+
+### 📌 **Latest Release**
+<img src="https://img.shields.io/github/v/release/KNGOFHUMANS/GPA-TRACKER?color=11998e&style=for-the-badge" />
+
+### 📥 **Total Downloads**
+<img src="https://img.shields.io/github/downloads/KNGOFHUMANS/GPA-TRACKER/total?color=38ef7d&label=Downloads&style=for-the-badge" />
+
+<br>
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://github.com/KNGOFHUMANS/GPA-TRACKER/releases/download/New_Update/GradeRise.exe" width="180" alt="QR download">
+
+**📱 Scan to download — GradeRise on Windows**
+
 </div>
 
 ---
 
-### 🧩 GradeRise — GPA Management App  
-
-**Download Latest Version:**  
-[**Download GradeRise.exe**](https://github.com/KNGOFHUMANS/GPA-TRACKER/releases/download/New_Update/GradeRise.exe)
-
-**Total Downloads:**  
-![GitHub all releases](https://img.shields.io/github/downloads/KNGOFHUMANS/GPA-TRACKER/total?color=brightgreen&label=Downloads)
-
----
-
-### 👾 Pac-Man Arena (Contribution Game)
+### 👾 Pac-Man Arena
 
 <p align="center">
   <picture>
@@ -69,3 +74,17 @@ I’m currently learning and building in **Java**, **Python**, and **Full-Stack 
 </p>
 
 <p align="center"><i>“Code is my spellbook, and every project is a new story.” — Malik ⚡</i></p>
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/maliktheatar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://www.youtube.com/@malikjones1613" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+  </a>
+  <a href="mailto:malik.g.jones0415@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+</div>
