@@ -35,7 +35,7 @@ I’m currently learning and building in **Java**, **Python**, and **Full-Stack 
 <div align="center">
 
 ### 💾 **Download GradeRise**
-<a href="https://github.com/KNGOFHUMANS/GPA-TRACKER/releases/download/New_Update/GradeRise.exe" target="_blank">
+<a href="https://github.com/KNGOFHUMANS/GPA-TRACKER/releases/tag/New_Update" target="_blank">
   <img src="https://img.shields.io/badge/Download-GradeRise.exe-38ef7d?style=for-the-badge&logo=windows&logoColor=white" />
 </a>
 
@@ -46,12 +46,6 @@ I’m currently learning and building in **Java**, **Python**, and **Full-Stack 
 
 ### 📥 **Total Downloads**
 <img src="https://img.shields.io/github/downloads/KNGOFHUMANS/GPA-TRACKER/total?color=38ef7d&label=Downloads&style=for-the-badge" />
-
-<br>
-
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://github.com/KNGOFHUMANS/GPA-TRACKER/releases/download/New_Update/GradeRise.exe" width="180" alt="QR download">
-
-**📱 Scan to download — GradeRise on Windows**
 
 </div>
 
