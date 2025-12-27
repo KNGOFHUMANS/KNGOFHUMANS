@@ -11,8 +11,8 @@
 
 ### 🧠 About Me  
 
-Hey there! I’m **Malik**, a passionate **Software Engineering student** and **developer** who loves transforming ideas into real, working projects.  
-I’m currently learning and building in **Java**, **Python**, and **Full-Stack Web Development**, and I enjoy mixing creativity and code — whether that’s through designing apps, building AI tools, or crafting beautiful user experiences.  
+Hey there! I’m **Malik**, **Software Engineering student** and **developer** who loves transforming ideas into real, working projects.  
+I’m currently learning and building projects in multiple languages. 
 
 - 🎓 Studying **Software Engineering (Application Track)**  
 - 🧠 Creator of **GradeRise**, a GPA tracker app with Google OAuth + JSON data persistence  
